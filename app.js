@@ -1,4 +1,6 @@
 // Todo App
+var appInsights = require('applicationinsights');
+appInsights.setup('da4e94e0-9069-46f8-9762-d9672a9fb1b4').start();
 var DocumentDBClient = require('documentdb').DocumentClient;
 var config = require('./config');
 var TaskList = require('./routes/tasklist');
