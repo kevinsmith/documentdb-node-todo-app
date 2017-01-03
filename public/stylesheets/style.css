@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px serif;
 }
 a {
   color: #00B7FF;
@@ -13,5 +13,5 @@ a {
 }
 .btn {
   margin-top: 5px;
-  border: outset 1px #C8C8C8;
+  border: outset 1px #258496;
 }
